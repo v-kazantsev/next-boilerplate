@@ -1,0 +1,25 @@
+@import 'stylesheets/variables';
+
+$headerBgColor: teal;
+$footerBgColor: dodgerblue;
+
+.main {
+  min-height: 100vh;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.header {
+  padding: 20px 0;
+  background-color: $headerBgColor;
+  text-align: center;
+  color: $white;
+}
+
+.footer {
+  padding: 20px 0;
+  background-color: $footerBgColor;
+  text-align: center;
+}

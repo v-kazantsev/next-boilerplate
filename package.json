@@ -1,0 +1,35 @@
+{
+  "name": "test-next",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next -p 3333"
+  },
+  "dependencies": {
+    "@types/next": "^8.0.5",
+    "@types/react": "^16.8.22",
+    "@types/react-dom": "^16.8.4",
+    "@zeit/next-sass": "^1.0.1",
+    "@zeit/next-typescript": "^1.1.1",
+    "autoprefixer": "^9.6.0",
+    "bem-cn": "^3.0.1",
+    "next": "^8.1.0",
+    "next-plugin-custom-babel-config": "^1.0.2",
+    "node-sass": "^4.12.0",
+    "postcss": "^7.0.17",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "tslint": "^5.17.0",
+    "typescript": "^3.5.2"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "postcss-normalize": "^8.0.1"
+  }
+}
