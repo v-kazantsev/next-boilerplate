@@ -17,7 +17,7 @@
     "next": "^8.1.0",
     "next-plugin-custom-babel-config": "^1.0.2",
     "node-sass": "^4.12.0",
-    "postcss": "^7.0.17",
+    "postcss": "^8.2.10",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "tslint": "^5.17.0",
