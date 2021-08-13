@@ -14,7 +14,7 @@
     "@zeit/next-typescript": "^1.1.1",
     "autoprefixer": "^9.6.0",
     "bem-cn": "^3.0.1",
-    "next": "^8.1.0",
+    "next": "^11.1.0",
     "next-plugin-custom-babel-config": "^1.0.2",
     "node-sass": "^4.12.0",
     "postcss": "^7.0.17",
